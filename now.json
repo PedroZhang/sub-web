@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "github": {
+        "silent": true
+    },
+    "builds": [
+        {
+            "src": "sub-web/**",
+            "use": "@now/static"
+        }
+    ]
+}
