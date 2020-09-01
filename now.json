@@ -5,8 +5,7 @@
     },
     "builds": [
         {
-            "src": "sub-web/**",
-            "use": "@now/static"
+            "src": "sub-web/**"
         }
     ]
 }
