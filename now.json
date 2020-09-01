@@ -6,7 +6,7 @@
     "builds": [
         {
             "src": "sub-web/**",
-            "use": "@now/static"
+            "use": "@now/vue.js"
         }
     ]
 }
